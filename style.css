@@ -1,0 +1,12 @@
+.carousel-inner{
+    background: rgb(63, 136, 231);
+  }
+
+  .carousel-item{
+    padding: 3% 15%;
+    text-align: center;
+  }
+  .img-feedback{
+    width: 60%;
+    height: 60%;
+  }
